@@ -2,4 +2,4 @@
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning frameworks for front end development
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me DM at @code_with_sat
+- 📫 How to reach me DM at @code_with_sat on instagram
