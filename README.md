@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Satish-front-end-dev
+- 👋 Hi, I’m @Satish full stack webdeveloper 
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning frameworks for front end development
 - 💞️ I’m looking to collaborate on project
